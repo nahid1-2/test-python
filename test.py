@@ -1,6 +1,7 @@
 number=input("Enter a number: ")
 number=int(number)
 
+# comment
 
 if number >= 80:
     print("Grade: A")
